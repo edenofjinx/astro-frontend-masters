@@ -11,13 +11,16 @@
 	},
 	"dependencies": {
 		"@astrojs/react": "^3.6.1",
+		"@astrojs/rss": "^4.0.7",
 		"@astrojs/solid-js": "^4.4.0",
 		"@nanostores/react": "^0.7.3",
 		"@nanostores/solid": "^0.4.2",
 		"astro": "^2.5.5",
+		"markdown-it": "^14.1.0",
 		"nanostores": "^0.11.2",
 		"react": "^19.0.0-beta",
 		"react-dom": "^19.0.0-beta",
+		"sanitize-html": "^2.13.0",
 		"solid-js": "^1.8.19"
 	},
 	"devDependencies": {
